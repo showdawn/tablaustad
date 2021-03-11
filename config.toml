@@ -1,8 +1,9 @@
-baseURL = "http://showdawn.github.io/tablaustad/"
+baseURL = "https://showdawn.github.io/tablaustad/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Learn Tabla"
+canonifyurls = true
 publishDir = "docs"
 
 # Main Menu
