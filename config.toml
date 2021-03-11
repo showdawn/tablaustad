@@ -3,6 +3,8 @@ languageCode = "en-us"
 paginate = 6
 theme = "portio"
 title = "Portio"
+publishDir = "docs"
+
 # Main Menu
 [[menu.main]]
 name = "Home"
