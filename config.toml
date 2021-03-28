@@ -36,16 +36,11 @@ weight = 1
 name = "Youtube"
 url = "http://www.youtube.com/c/BhagawanSingh%20"
 weight = 2
-[[menu.sitemap]]
-name = "Linkedin"
-url = "#"
-weight = 3
-
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © S B Singh 2021"
+copyright = "Copyright © 2021, S B Singh. All Right Reserved."
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
@@ -65,17 +60,9 @@ pinImage = "images/pin.png"
 # Social icons
 [[params.social]]
 icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+url = "https://www.facebook.com/tablaclasses/"
 weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+icon = "fa-youtube-square"
+url = "https://www.youtube.com/c/BhagawanSingh/videos"
 weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
