@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.tablaustad.com/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>https://www.tablaustad.com/blog/markdown-formatting-demo/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>https://www.tablaustad.com/blog/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
-  </url><url>
     <loc>https://www.tablaustad.com/portfolio/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
   </url><url>
     <loc>https://www.tablaustad.com/portfolio/recipe-app-ux-study/</loc>
+    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
+  </url><url>
+    <loc>https://www.tablaustad.com/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
   </url><url>
     <loc>https://www.tablaustad.com/portfolio/ux-case-study-for-agriculture-app/</loc>
@@ -23,36 +17,20 @@
     <loc>https://www.tablaustad.com/portfolio/event-app-case-study/</loc>
     <lastmod>2020-08-12T18:07:16+06:00</lastmod>
   </url><url>
-    <loc>https://www.tablaustad.com/blog/designer-conference-at-florida-2020/</loc>
-    <lastmod>2020-07-13T13:06:26+06:00</lastmod>
-  </url><url>
     <loc>https://www.tablaustad.com/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>https://www.tablaustad.com/portfolio/case-study-one/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>https://www.tablaustad.com/blog/designers-thoughts-about-mobile-ui/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>https://www.tablaustad.com/blog/how-to-become-acreative-designer/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>https://www.tablaustad.com/blog/new-designers-limitations/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>https://www.tablaustad.com/blog/things-you-must-know-as-a-designer/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>https://www.tablaustad.com/blog/world-most-famous-app-developers-and-designers/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>https://www.tablaustad.com/blog/you-must-know-this-before-becoming-a-designer/</loc>
+    <loc>https://www.tablaustad.com/blog/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>https://www.tablaustad.com/categories/</loc>
   </url><url>
     <loc>https://www.tablaustad.com/contact/</loc>
+  </url><url>
+    <loc>https://www.tablaustad.com/contact/about-me/</loc>
   </url><url>
     <loc>https://www.tablaustad.com/tags/</loc>
   </url>
