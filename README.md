@@ -1,3 +1,3 @@
 # A static site built with HUGO
 
-https://tablaustad.com/
+Site is hosted at - https://tablaustad.com/
