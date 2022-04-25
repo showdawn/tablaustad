@@ -2,6 +2,9 @@
 
 https://tablaustad.com/
 
+### Build status
+[![pages-build-deployment](https://github.com/showdawn/tablaustad/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/showdawn/tablaustad/actions/workflows/pages/pages-build-deployment)
+
 ### Download Source Code
 
 ```git clone --recurse-submodules https://github.com/showdawn/tablaustad```
