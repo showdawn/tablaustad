@@ -1,6 +1,7 @@
 # A static site built with [HUGO](https://gohugo.io/getting-started/quick-start/)
 
 ### Site: https://tablaustad.com/
+### Github Page: https://showdawn.github.io/
 
 ### Build status
 [![pages-build-deployment](https://github.com/showdawn/tablaustad/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/showdawn/tablaustad/actions/workflows/pages/pages-build-deployment)
