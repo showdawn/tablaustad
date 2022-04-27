@@ -1,6 +1,9 @@
 # A static site built with [HUGO](https://gohugo.io/getting-started/quick-start/)
 
-https://tablaustad.com/
+### Site: https://tablaustad.com/
+
+### Build status
+[![pages-build-deployment](https://github.com/showdawn/tablaustad/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/showdawn/tablaustad/actions/workflows/pages/pages-build-deployment)
 
 ### Download Source Code
 
@@ -37,5 +40,7 @@ Raag Chandrakauns. Watch and Enjoy...
 ### Build Changes for publish
 
 ```hugo```
+
+### Site Hosted on Github Pages
 
 
