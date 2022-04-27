@@ -40,8 +40,7 @@
           <div class="figure-svg">
             <img src="images/hero/figure-svg.svg" alt="figure-svg" />
           </div>
-          <img src="{{ .image | absURL }}" alt="hero-image" style='
-                  -webkit-mask: url({{"images/hero/hero-mask-svg.png" | safeURL }});
+          <img src="{{ .image | safeURL }}" alt="hero-image" style='
                   -webkit-mask-repeat: no-repeat;
                   -webkit-mask-size: contain;
                   -webkit-mask-position: center center;
