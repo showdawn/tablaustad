@@ -2,17 +2,24 @@
 
 https://tablaustad.com/
 
-## Steps to Build
+### Download Source Code
 
+```git clone --recurse-submodules https://github.com/showdawn/tablaustad```
+
+_If it fails, use this again_
+```git submodule update --force --recursive --init --remote```
+
+### Local Build
 Install hugo if not installed already
 
 ```brew install hugo```
 
-Run the site locally 
+### Run the site locally 
 
 ```hugo serve```
 
-Steps to add a new post
+### Steps to add a new post
+
 1. Create a section under content/blog
 2. Add this code and update the video url and photo
 ```yaml
@@ -27,7 +34,7 @@ Raag Chandrakauns. Watch and Enjoy...
 3. Right click on YouTube video and copy the embed code.
 4. For image use Photoshop. Base image is in  /dev/hugo/images
 
-Build Changes
+### Build Changes for publish
 
 ```hugo```
 
